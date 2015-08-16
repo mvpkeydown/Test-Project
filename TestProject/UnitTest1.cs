@@ -12,6 +12,7 @@ namespace TestProject
         [TestMethod]
         public void TestMethod1()
         {
+            Console.Write("Test Project");
         }
     }
 }
